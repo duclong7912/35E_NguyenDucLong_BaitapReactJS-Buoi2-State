@@ -1,14 +1,5 @@
 import React, { Component } from "react";
 import Model from "../assets/img/model.jpg";
-import Glasses1 from "../assets/img/v1.png";
-import Glasses2 from "../assets/img/v2.png";
-import Glasses3 from "../assets/img/v3.png";
-import Glasses4 from "../assets/img/v4.png";
-import Glasses5 from "../assets/img/v5.png";
-import Glasses6 from "../assets/img/v6.png";
-import Glasses7 from "../assets/img/v7.png";
-import Glasses8 from "../assets/img/v8.png";
-import Glasses9 from "../assets/img/v9.png";
 
 let arrGlasses = [
   {
